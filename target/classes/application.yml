@@ -1,0 +1,18 @@
+bot:
+  token:
+  name:
+  tagName:
+
+data:
+
+text:
+  error:
+  hello:
+  emptyStatisticText:
+  startedStatisticText:
+  winner:
+  congratulation:
+  tagReaction:
+  statisticRules:
+chatBot:
+  key:

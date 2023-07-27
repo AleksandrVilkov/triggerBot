@@ -1,0 +1,313 @@
+{
+  "fullTrigger": [
+    {
+      "keys": [
+        "нет",
+        "нeт"
+      ],
+      "text": [
+        "Пидора ответ",
+        "Говна пакет",
+        "Из спермы омлет"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "ага"
+      ],
+      "text": [
+        "В жопе нога!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "ладно",
+        "ладнo",
+        "лaдно"
+      ],
+      "text": [
+        "В жопе шоколадно!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "есть",
+        "eсть"
+      ],
+      "text": [
+        "На жопе шерсть!!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "да",
+        "дa"
+      ],
+      "text": [
+        "Пизда!"
+      ],
+      "gif": [
+        "CgACAgIAAxkBAAIBPGSueBZ0B6xfM3WfxfjHnD5Xi1voAAIwBAAClyhhSnrwScXTmqRILwQ"
+      ],
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "алло",
+        "ало"
+      ],
+      "text": [
+        "Хуем по лбу не дало?"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "окей",
+        "oкей",
+        "oкeй"
+      ],
+      "text": [
+        "Пизду побрей",
+        "Соси быстрей",
+        "Еби гусей"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "а",
+        "a"
+      ],
+      "text": [
+        "хуй на!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "где",
+        "гдe"
+      ],
+      "text": [
+        "в пизде!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "я"
+      ],
+      "text": [
+        "головка от хуя!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "надо прокатиться",
+        "нужно прокатиться",
+        "хочется прокатиться",
+        "хочу прокатиться",
+        "хотел бы прокатиться"
+      ],
+      "text": [
+        "Но жопа не годится"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "три"
+      ],
+      "text": [
+        "Жопу подотри"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "лысый"
+      ],
+      "text": [
+        "Сходи пописай"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "будь другом"
+      ],
+      "text": [
+        "Насри кругом!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "Слышь",
+        "слыш"
+      ],
+      "text": [
+        "за углом поссышь!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "не"
+      ],
+      "text": [
+        "жопа в говне!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "триста"
+      ],
+      "text": [
+        "ОТСОСИ У ТРАКТОРИСТА!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "чо",
+        "че"
+      ],
+      "text": [
+        "ХУЙ ЧЕРЕЗ ПЛЕЧО!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "ор"
+      ],
+      "text": [
+        "выше гор"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "пежо",
+        "пыжо",
+        "пеугеот",
+        "пыж",
+        "пыжик"
+      ],
+      "text": [
+        "пежо говно!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "ситроен",
+        "ситр",
+        "цитромон",
+        "ситрик"
+      ],
+      "text": [
+        "ситроен ТОП, а пежо говно!"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    }
+  ],
+  "containsTrigger": [
+    {
+      "keys": [
+        "Игорь"
+      ],
+      "text": [
+        "Игроь петух",
+        "Хуигорь"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "сергей ",
+        "сережа",
+        "сергей",
+        "серёжа"
+      ],
+      "text": [
+        "Какая же мерзкая рожа, этот ваш Сережа"
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    },
+    {
+      "keys": [
+        "кайловер",
+        "койловер",
+        "кайловеры",
+        "койловеры",
+        "койлы",
+        "коилы",
+        "койлы",
+        "для койловеров",
+        "это койловеры",
+        "на койлах",
+        "мушкетер"
+      ],
+      "text": [
+        "Бля, опять про эти ебучие койловеры. Да как же меня это все заебало то блять. Изо дня в день: койловеры, койловеры, койловеры... "
+      ],
+      "gif": null,
+      "photo": null,
+      "sticker": null
+    }
+  ]
+}
